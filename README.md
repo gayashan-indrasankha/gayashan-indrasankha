@@ -34,9 +34,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=1800" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" />
 </div>
 
 <div align="center">
@@ -90,6 +90,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashan-indrasankha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6347)
 
 </div>
+
 ---
 
 ### 📌 Featured Projects
@@ -114,15 +115,13 @@
   <a href="http://discordapp.com/users/1188408673668698214"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp;
   <a href="http://wa.me/+94753800728"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
-
+  
 ---
 
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&color=58A6FF&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=gayashan-indrasankha&color=58A6FF&style=flat-square&label=Profile+Views" />
 </div>
-  
----
+
 
 
 
