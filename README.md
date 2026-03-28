@@ -2,10 +2,12 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineering+Student+%40+UCSC;Full+Stack+%26+MERN+Developer;Java+%26+JavaScript+Enthusiast;Passionate+about+Building+Scalable+Solutions;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" /></a>
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashan-indrasankha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94753800728)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashanindrasankha@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)](https://github.com/gayashan-indrasankha)
+</div>
 
 </p>
 
@@ -110,21 +112,7 @@
   </a>
 </div>
 
----
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gayashan-indrasankha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://x.com/indrasankhaG"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
-  <a href="https://web.facebook.com/gayashan.indrasanka.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/_.gaiya.___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
-  <a href="http://discordapp.com/users/1188408673668698214"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp;
-  <a href="http://wa.me/+94753800728"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayashan-indrasankha&color=58A6FF&style=flat-square&label=Profile+Views" />
-</div>
 
 
 
