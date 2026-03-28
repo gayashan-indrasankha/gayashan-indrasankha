@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineering+Student+%40+UCSC;Full+Stack+%26+MERN+Developer;Java+%26+JavaScript+Enthusiast;Passionate+about+Building+Scalable+Solutions;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" /></a>
 </p>
@@ -86,22 +86,6 @@
   <img width="12" />
 </div>
 
-
----
-
-<div align="center">
-
-  ✅ ![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&color=58A6FF&style=flat-square)
-</div>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&pause=1000&color=07F700&&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+💻;+Your+interest+is+greatly+appreciated!;Let’s+collaborate+on+new+ideas!">
-</p>
-
-
-
-  
 ---
 
 <h3 align="center">Connect with me:</h3>
@@ -113,7 +97,15 @@
   <a href="http://discordapp.com/users/1188408673668698214"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a href="http://wa.me/+94753800728"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon" width="40" height="40"></a>
 </p>
-</p>
 
 ---
+
+<div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&color=58A6FF&style=flat-square)
+</div>
+  
+---
+
+
 
