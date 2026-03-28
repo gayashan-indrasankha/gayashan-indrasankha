@@ -1,20 +1,18 @@
-<h1 align="center">Hey there, I'm Gayashan Indrasankha<img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px"></h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Gayashan+Indrasankha;Software+Engineering+Student+%40+UCSC;Full+Stack+Web+Developer;Java+%26+JavaScript+Enthusiast;Open+to+Internship+Opportunities+💼)](https://git.io/typing-svg)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha.</h1>
+<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Driven+by+innovation+and+excellence;Bridging+technology+and+creativity;Passionate+about+building+scalable+solutions;Championing+collaborative+problem-solving;Committed+to+lifelong+learning+and+growth;" alt="Typing SVG" />
+</p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Advanced Web Development and Data Structures**
+- 🎓 &nbsp;Undergraduate at **University of Colombo School of Computing**
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Colombo School of Computing**
+- 🔭 &nbsp;Currently deep-diving into the **MERN Stack** — building full-stack applications with MongoDB, Express, React & Node.js
 
-- 💬 Ask me about **Web Developemnt**
+- 💡 &nbsp;Passionate about clean architecture, scalable systems, and solving real-world problems through code
   
-- 🎲 Fun fact: **I love solving programming challenges in my free time!**
-
-- 🎯 Goals: **To become a proficient Software Engineer**
+- 💼 &nbsp;Open to **Software Engineering Internship** opportunities — let's build something great
 
 - 📫 How to reach me **gayashanindrasankha@gmail.com**
 
@@ -32,40 +30,49 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=indrasankhag&theme=algolia&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=indrasankhag&theme=algolia&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</div>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=indrasankhag&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gayashan-indrasankha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" />
+</div>
 
 
 ---
 
+### 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=indrasankhag&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-<h2 align="left">My Projects</h2>
-
-- **[Online News Article Management System](https://github.com/indrasankhag/Online-News-Article-Management-System)**: A web application for managing news articles. Technologies used: HTML, CSS, JavaScript, PHP, mySql.
-- **[iFriendContactOrganizer](https://github.com/indrasankhag/iFriendContactOrganizer)**: The project is a Contact Management System designed to organize and manage personal contacts efficiently. Technologies used: Java,Object-Oriented Programming,Data Structures.
-- **[iCALC_Number_Converter_System](https://github.com/indrasankhag/iCALC_Number_Converter_System)**: The project is an iCALC Number Converter System, designed to convert numbers between various numeral systems. Technologies used: Java
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gayashan-indrasankha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
 
 ---
 
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/gayashan-indrasankha/Online-News-Article-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=Online-News-Article-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gayashan-indrasankha/iFriendContactOrganizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=iFriendContactOrganizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashan-indrasankha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6347)
+
+</div>
+
+---
 
 <h3 align="center">🛠️Languages and Tools:</h3>
 
