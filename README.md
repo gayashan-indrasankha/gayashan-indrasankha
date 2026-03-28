@@ -90,17 +90,29 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashan-indrasankha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6347)
 
 </div>
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/gayashan-indrasankha/Online-News-Article-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=Online-News-Article-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  </a>&nbsp;
+  <a href="https://github.com/gayashan-indrasankha/iFriendContactOrganizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=iFriendContactOrganizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  </a>
+</div>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gayashan-indrasankha/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" /></a><img width="12" /> 
-  <a href="https://x.com/indrasankhaG" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter logo" /></a> <img width="12" />
-  <a href="https://web.facebook.com/gayashan.indrasanka.3" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" /></a><img width="12" />
-  <a href="https://www.instagram.com/_.gaiya.___/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram logo" /></a><img width="12" />
-  <a href="http://discordapp.com/users/1188408673668698214"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a href="http://wa.me/+94753800728"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/gayashan-indrasankha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://x.com/indrasankhaG"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
+  <a href="https://web.facebook.com/gayashan.indrasanka.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;
+  <a href="https://www.instagram.com/_.gaiya.___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="http://discordapp.com/users/1188408673668698214"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp;
+  <a href="http://wa.me/+94753800728"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
