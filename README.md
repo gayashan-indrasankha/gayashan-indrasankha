@@ -44,14 +44,7 @@
 </div>
 
 
----
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayashan-indrasankha&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
 
 <div align="center">
 
@@ -95,17 +88,10 @@
 
 
 ---
-<div align="center">
-
-
-
-</div>
 
 <div align="center">
 
-  ![View](https://img.shields.io/badge/Profile_View-Count-07F700)
-  
-  <img src="https://profile-counter.glitch.me/indrasankhag/count.svg?"  />
+  ✅ ![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&color=58A6FF&style=flat-square)
 </div>
 
 
@@ -113,9 +99,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&pause=1000&color=07F700&&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+💻;+Your+interest+is+greatly+appreciated!;Let’s+collaborate+on+new+ideas!">
 </p>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif">
-</p>
 
 
   
