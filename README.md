@@ -45,9 +45,13 @@
 
 
 ---
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gayashan-indrasankha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gayashan-indrasankha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+---
 
 <div align="center">
 
