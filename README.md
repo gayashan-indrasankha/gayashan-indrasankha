@@ -4,10 +4,14 @@
 </p>
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashan-indrasankha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94753800728)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashanindrasankha@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)](https://github.com/gayashan-indrasankha)
+
 </div>
 
 <table align="center">
