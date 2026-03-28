@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha.</h1>
-<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Driven+by+innovation+and+excellence;Bridging+technology+and+creativity;Passionate+about+building+scalable+solutions;Championing+collaborative+problem-solving;Committed+to+lifelong+learning+and+growth" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there, I'm Gayashan Indrasankha<img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Gayashan+Indrasankha;Software+Engineering+Student+%40+UCSC;Full+Stack+Web+Developer;Java+%26+JavaScript+Enthusiast;Open+to+Internship+Opportunities+💼)](https://git.io/typing-svg)
 
 <table align="center">
 <tr border="none">
