@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha.</h1>
-<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Driven+by+innovation+and+excellence;Bridging+technology+and+creativity;Passionate+about+building+scalable+solutions;Championing+collaborative+problem-solving;Committed+to+lifelong+learning+and+growth;" alt="Typing SVG" />
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineering+Student+%40+UCSC;Full+Stack+%26+MERN+Developer;Java+%26+JavaScript+Enthusiast;Passionate+about+Building+Scalable+Solutions;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" /></a>
 </p>
 
 <table align="center">
@@ -8,11 +9,11 @@
   
 - 🎓 &nbsp;Undergraduate at **University of Colombo School of Computing**
 
-- 🔭 &nbsp;Currently deep-diving into the **MERN Stack** — building full-stack applications with MongoDB, Express, React & Node.js
+- 🔭 &nbsp;Currently deep diving into the **MERN Stack** - building full stack applications with MongoDB, Express, React & Node.js
 
-- 💡 &nbsp;Passionate about clean architecture, scalable systems, and solving real-world problems through code
+- 💡 &nbsp;Passionate about clean architecture, scalable systems, and solving real world problems through code
   
-- 💼 &nbsp;Open to **Software Engineering Internship** opportunities — let's build something great
+- 💼 &nbsp;Open to **Software Engineering Internship** opportunities - let's build something great
 
 - 📫 How to reach me **gayashanindrasankha@gmail.com**
 
@@ -30,7 +31,8 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+### 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
   &nbsp;&nbsp;
