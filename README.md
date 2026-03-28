@@ -1,11 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha</h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineering+Student+%40+UCSC;Full+Stack+%26+MERN+Developer;Java+%26+JavaScript+Enthusiast;Passionate+about+Building+Scalable+Solutions;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" /></a>
-</p>
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%40+UCSC;Full+Stack+%26+MERN+Developer;Java+%26+JavaScript+Enthusiast;Passionate+about+Building+Scalable+Solutions;Open+to+Internship+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashan-indrasankha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94753800728)
