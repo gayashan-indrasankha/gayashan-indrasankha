@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashan-indrasankha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94753800728)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1d7a7c647c6e757c737473796f7c6e7c7376757c5d7a707c7471337e7270">[email&#160;protected]</a>)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashanindrasankha@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)](https://github.com/gayashan-indrasankha)
 
 </div>
@@ -24,7 +24,7 @@
   
 - 💼 &nbsp;Open to **Software Engineering Internship** opportunities - let's build something great
 
-- 📫 How to reach me **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0e696f776f7d666f6067606a7c6f7d6f6065666f4e69636f6762206d6163">[email&#160;protected]</a>**
+- 📫 How to reach me **gayashanindrasankha@gmail.com**
 
 
 
@@ -43,13 +43,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gayashan-indrasankha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gayashan-indrasankha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" />
 </div>
 
 ---
@@ -106,6 +106,15 @@
 
 <div align="center">
   <a href="https://github.com/gayashan-indrasankha/Online-News-Article-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=Online-News-Article-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=Online-News-Article-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   </a>&nbsp;
-  <a href="https://github.com/gayashan-indrasankha/iFriendContactOrganize
+  <a href="https://github.com/gayashan-indrasankha/iFriendContactOrganizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=iFriendContactOrganizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  </a>
+</div>
+
+
+
+
+
+
