@@ -43,11 +43,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="180em" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=php,hack" height="180em" /> |
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=php,hack" />
 </div>
 
 <div align="center">
