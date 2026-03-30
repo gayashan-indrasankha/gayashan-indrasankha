@@ -109,18 +109,6 @@
 
 </div>
 
----
-
-### 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/gayashan-indrasankha/Online-News-Article-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=Online-News-Article-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>&nbsp;
-  <a href="https://github.com/gayashan-indrasankha/iFriendContactOrganizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gayashan-indrasankha&repo=iFriendContactOrganizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>
-</div>
 
 
 
