@@ -1,99 +1,105 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha</h1>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Gayashan%20Indrasankha&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20IT%20Undergraduate%20%40%20UCSC&descSize=16&descAlignY=58&animation=fadeIn" alt="Gayashan Indrasankha" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+full-stack+products+with+Next.js+%26+the+MERN+stack;Turning+business+rules+into+data+pipelines+%26+dashboards;Open+to+Software+Engineering+internships+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%40+UCSC;Full+Stack+%26+MERN+Developer;Java+%26+JavaScript+Enthusiast;Passionate+about+Building+Scalable+Solutions;Open+to+Internship+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gayashan-indrasankha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gayashanindrasankha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/indrasankhaG"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://wa.me/+94753800728"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gayashan-indrasankha&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashan-indrasankha/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94753800728)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashanindrasankha@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=gayashan-indrasankha&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)](https://github.com/gayashan-indrasankha)
+---
 
-</div>
+## 👨‍💻 About Me
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🎓 &nbsp;Undergraduate at **University of Colombo School of Computing**
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🔭 &nbsp;Currently deep diving into the **MERN Stack** - building full stack applications with MongoDB, Express, React & Node.js
+I'm an IT undergraduate at the **University of Colombo School of Computing** who likes shipping complete products — from the database schema to the UI people actually use.
 
-- 💡 &nbsp;Passionate about clean architecture, scalable systems, and solving real world problems through code
-- 💼 &nbsp;Open to **Software Engineering Internship** opportunities - let's build something great
-
-- 📫 How to reach me **gayashanindrasankha@gmail.com**
+- 🚀 Building **LifeOS**, a full-stack planner on Next.js, PostgreSQL and Electron
+- 📊 Exploring **GRC & data analytics** — SQL control rules, Power BI dashboards, AI evaluation
+- 🧱 Care about clean architecture, tests and honest documentation
+- 💼 Looking for a **Software Engineering internship** — let's talk!
+- 📫 Reach me at **[gayashanindrasankha@gmail.com](mailto:gayashanindrasankha@gmail.com)**
 
 </td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-
-  </td>
+<td width="42%" align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer at work" width="100%" />
+</td>
 </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+## 🌟 Featured Projects
 
-<table border="0" align="center">
+| Project | What it is | Stack |
+|:--|:--|:--|
+| 🗓️ **[LifeOS](https://github.com/gayashan-indrasankha/LifeOS)** · [Live demo](https://lifeos-gayashan-2026.vercel.app) | Personal planning system linking long-term goals to daily tasks, habits and weekly reviews — web, desktop and Android. | Next.js · TypeScript · PostgreSQL · Drizzle · Electron |
+| 🛡️ **[GRC Risk Monitor](https://github.com/gayashan-indrasankha/grc-risk-monitor)** | Procurement control-monitoring prototype: SQL exception rules, Power BI dashboard and automated email alerts. | Python · SQLite · Power BI · Power Automate |
+| 🤖 **[LLM Eval Framework](https://github.com/gayashan-indrasankha/llm-eval-framework)** | Reproducible benchmark comparing Claude and Microsoft Copilot on GRC policy questions with a six-dimension rubric. | Python · Excel |
+| 🎯 **[Skill-to-Career Predictor](https://github.com/gayashan-indrasankha/AI-Driven-Skill-to-Career-Pathway-Predictor)** | Maps student skills to Sri Lanka–relevant career paths with market data, salary bands and roadmaps. | MongoDB · Express · React · Node.js |
+| 🚚 **[SwiftTrack Middleware](https://github.com/gayashan-indrasankha/Middleware-Architecture-for-SwiftLogistics)** | API gateway bridging SOAP, REST and TCP systems with saga coordination and real-time WebSocket tracking. | Node.js · Python · PostgreSQL · Docker |
+| 🚌 **[NexBus](https://github.com/gayashan-indrasankha/NexBus)** | Role-based smart bus tracking and fleet management system for Sri Lankan transport. | PHP · MySQL · JavaScript |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,cs,c,cpp,html,css&theme=dark" alt="Languages" />
+</p>
+
+<p align="center"><b>Frameworks & Libraries</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,dotnet,electron&theme=dark" alt="Frameworks" />
+</p>
+
+<p align="center"><b>Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" alt="Databases" />
+</p>
+
+<p align="center"><b>Tools & Platforms</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,vscode&theme=dark" alt="Tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
   <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=php,hack" />
-    </td>
+    <td><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gayashan-indrasankha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub stats" /></td>
+    <td><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gayashan-indrasankha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=php,hack,nsis,batchfile,dockerfile,shell" alt="Top languages" /></td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gayashan-indrasankha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gayashan-indrasankha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" alt="GitHub streak" />
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gayashan-indrasankha/gayashan-indrasankha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gayashan-indrasankha/gayashan-indrasankha/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/gayashan-indrasankha/gayashan-indrasankha/output/github-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**🎨 Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**⚙️ Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**🗄️ Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**💻 Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**🔧 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayashan-indrasankha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6347)
-
-</div>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" alt="" width="100%" />
+</p>
