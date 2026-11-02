@@ -46,7 +46,6 @@ I'm an IT undergraduate at the **University of Colombo School of Computing** who
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| 🗓️ **[LifeOS](https://github.com/gayashan-indrasankha/LifeOS)** · [Live demo](https://lifeos-gayashan-2026.vercel.app) | Personal planning system linking long-term goals to daily tasks, habits and weekly reviews — web, desktop and Android. | Next.js · TypeScript · PostgreSQL · Drizzle · Electron |
 | 🛡️ **[GRC Risk Monitor](https://github.com/gayashan-indrasankha/grc-risk-monitor)** | Procurement control-monitoring prototype: SQL exception rules, Power BI dashboard and automated email alerts. | Python · SQLite · Power BI · Power Automate |
 | 🤖 **[LLM Eval Framework](https://github.com/gayashan-indrasankha/llm-eval-framework)** | Reproducible benchmark comparing Claude and Microsoft Copilot on GRC policy questions with a six-dimension rubric. | Python · Excel |
 | 🎯 **[Skill-to-Career Predictor](https://github.com/gayashan-indrasankha/AI-Driven-Skill-to-Career-Pathway-Predictor)** | Maps student skills to Sri Lanka–relevant career paths with market data, salary bands and roadmaps. | MongoDB · Express · React · Node.js |
