@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 186" width="460" height="186" role="img" aria-labelledby="t d">
+  <title id="t">SwiftTrack Middleware</title>
+  <desc id="d">API gateway bridging SOAP, REST and TCP systems with saga coordination, so no order is lost when a service goes down.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    .label { font-size: 11px; font-weight: 600; letter-spacing: 1.2px; }
+    .name { font-size: 20px; font-weight: 700; fill: #F0F3F8; }
+    .body { font-size: 14px; fill: #C9D1D9; }
+    .chip { font-size: 12px; fill: #C9D1D9; }
+    .pill { font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px; fill: #0D1117; }
+    .open { font-size: 16px; fill: #9AA1B0; }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="185" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <rect x="0.5" y="24" width="4" height="46" rx="2" fill="#7C9CF5"/>
+  <text class="label mono" x="22" y="35" fill="#7C9CF5">SOFTWARE</text>
+  <text class="name" x="22" y="62">SwiftTrack Middleware</text>
+  <text class="open" x="438" y="38" text-anchor="end">↗</text>
+  <text class="body" x="22" y="90">API gateway bridging SOAP, REST and TCP systems with</text>
+  <text class="body" x="22" y="110">saga coordination, so no order is lost when a service</text>
+  <text class="body" x="22" y="130">goes down.</text>
+  <rect x="22" y="148" width="69" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="56.5" y="164" text-anchor="middle">Node.js</text>
+  <rect x="99" y="148" width="62" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="130" y="164" text-anchor="middle">Python</text>
+  <rect x="169" y="148" width="91" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="214.5" y="164" text-anchor="middle">PostgreSQL</text>
+  <rect x="268" y="148" width="62" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="299" y="164" text-anchor="middle">Docker</text>
+</svg>

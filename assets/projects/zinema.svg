@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 186" width="460" height="186" role="img" aria-labelledby="t d">
+  <title id="t">Zinema.lk</title>
+  <desc id="d">Built solo to make movies affordable in Sri Lanka: one-time tokens deliver films through low-cost WhatsApp packages.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    .label { font-size: 11px; font-weight: 600; letter-spacing: 1.2px; }
+    .name { font-size: 20px; font-weight: 700; fill: #F0F3F8; }
+    .body { font-size: 14px; fill: #C9D1D9; }
+    .chip { font-size: 12px; fill: #C9D1D9; }
+    .pill { font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px; fill: #0D1117; }
+    .open { font-size: 16px; fill: #9AA1B0; }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="185" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <rect x="0.5" y="24" width="4" height="46" rx="2" fill="#7C9CF5"/>
+  <text class="label mono" x="22" y="35" fill="#7C9CF5">SOFTWARE</text>
+  <text class="name" x="22" y="62">Zinema.lk</text>
+  <text class="open" x="438" y="38" text-anchor="end">↗</text>
+  <text class="body" x="22" y="90">Built solo to make movies affordable in Sri Lanka: one-</text>
+  <text class="body" x="22" y="110">time tokens deliver films through low-cost WhatsApp</text>
+  <text class="body" x="22" y="130">packages.</text>
+  <rect x="22" y="148" width="40" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="42" y="164" text-anchor="middle">PHP</text>
+  <rect x="70" y="148" width="54" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="97" y="164" text-anchor="middle">MySQL</text>
+  <rect x="132" y="148" width="91" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="177.5" y="164" text-anchor="middle">JavaScript</text>
+  <rect x="231" y="148" width="69" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text class="chip mono" x="265.5" y="164" text-anchor="middle">Node.js</text>
+</svg>

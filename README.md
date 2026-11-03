@@ -36,23 +36,18 @@ open_to:    Software Engineering internships & graduate roles
 
 ## 🧪 Proof of Work
 
-**🤖 AI & Data: where I'm heading**
+<p align="center">
+  <a href="https://github.com/gayashan-indrasankha/llm-eval-framework"><img src="assets/projects/llm-eval-framework.svg" alt="LLM Eval Framework: Benchmarks Claude against Microsoft Copilot on GRC policy questions, with deterministic prompts and a six-dimension rubric." width="49%" /></a>
+  <a href="https://github.com/gayashan-indrasankha/grc-risk-monitor"><img src="assets/projects/grc-risk-monitor.svg" alt="GRC Risk Monitor: Turns business policies into SQL control rules, a Power BI dashboard and automated alerts, with 28 recorded tests." width="49%" /></a>
+  <a href="https://github.com/gayashan-indrasankha/AI-Driven-Skill-to-Career-Pathway-Predictor"><img src="assets/projects/skill-to-career.svg" alt="Skill-to-Career Predictor: Matches student skills to Sri Lanka-relevant career paths using weighted scoring and market signals." width="49%" /></a>
+  <img src="assets/projects/bizflows.svg" alt="BizFlows: Application engine for automating business workflows. It will be the base for my first LLM-powered workflow step." width="49%" />
+  <a href="https://github.com/gayashan-indrasankha/LifeOS"><img src="assets/projects/lifeos.svg" alt="LifeOS: Connects long-term goals to weekly plans, daily tasks and habits. Built solo, with tests running in GitHub Actions." width="49%" /></a>
+  <a href="https://github.com/gayashan-indrasankha/Zinema.lk"><img src="assets/projects/zinema.svg" alt="Zinema.lk: Built solo to make movies affordable in Sri Lanka: one-time tokens deliver films through low-cost WhatsApp packages." width="49%" /></a>
+  <a href="https://github.com/gayashan-indrasankha/Middleware-Architecture-for-SwiftLogistics"><img src="assets/projects/swifttrack.svg" alt="SwiftTrack Middleware: API gateway bridging SOAP, REST and TCP systems with saga coordination, so no order is lost when a service goes down." width="49%" /></a>
+  <a href="https://github.com/gayashan-indrasankha/NexBus"><img src="assets/projects/nexbus.svg" alt="NexBus: Role-based bus tracking and fleet management system for Sri Lankan transport." width="49%" /></a>
+</p>
 
-| Project | What it shows | Stack |
-|:--|:--|:--|
-| **[LLM Eval Framework](https://github.com/gayashan-indrasankha/llm-eval-framework)** | Reproducible benchmark of Claude vs Microsoft Copilot on GRC policy questions, with deterministic prompts, a six-dimension rubric and comparative analysis. The seed of my eval work. | Python · Excel |
-| **[GRC Risk Monitor](https://github.com/gayashan-indrasankha/grc-risk-monitor)** | Turns business policies into SQL control rules, a Power BI dashboard and automated alerts, with 28 recorded tests. | Python · SQLite · Power BI · Power Automate |
-| **[Skill-to-Career Predictor](https://github.com/gayashan-indrasankha/AI-Driven-Skill-to-Career-Pathway-Predictor)** | Matches student skills to Sri Lanka–relevant career paths using weighted scoring and market signals. | MongoDB · Express · React · Node.js |
-
-**⚙️ Software Engineering: the foundation**
-
-| Project | What it shows | Stack |
-|:--|:--|:--|
-| **[LifeOS](https://github.com/gayashan-indrasankha/LifeOS)** · [live app](https://lifeos-gayashan-2026.vercel.app) | Personal planning system connecting long-term goals to weekly plans, daily tasks and habits. Built solo, with unit, integration and browser tests running in GitHub Actions. | Next.js · TypeScript · PostgreSQL · Electron |
-| **[Zinema.lk](https://github.com/gayashan-indrasankha/Zinema.lk)** | Built solo to make movies affordable in Sri Lanka: one-time tokens deliver films through low-cost WhatsApp packages instead of expensive mobile data, with a short-clip feed for discovery. | PHP · MySQL · JavaScript · Node.js |
-| **[SwiftTrack Middleware](https://github.com/gayashan-indrasankha/Middleware-Architecture-for-SwiftLogistics)** | API gateway bridging SOAP, REST and TCP systems with saga coordination, so no order is lost when a service goes down. | Node.js · Python · PostgreSQL · Docker |
-| **[NexBus](https://github.com/gayashan-indrasankha/NexBus)** | Role-based bus tracking and fleet management system for Sri Lankan transport. | PHP · MySQL · JavaScript |
-| **BizFlows** · *going live soon* | Application engine for automating business workflows. It will be the base for my first LLM-powered workflow step. | TypeScript |
+<p align="center">Click a card to open the project. LifeOS is also running as a <a href="https://lifeos-gayashan-2026.vercel.app">live app</a>.</p>
 
 ---
 
