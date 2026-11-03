@@ -26,11 +26,31 @@ I'm an IT undergraduate at the **University of Colombo School of Computing**, bu
 ```yaml
 now:        IT Undergraduate @ UCSC  →  Software Engineer
 target:     AI Engineer building LLM systems in production
-learning:   DSA · SQL · Docker · REST API design · Python
+learning:   DSA · advanced SQL · Docker in production · REST API design · deeper Python
 shipping:   BizFlows, a workflow automation engine (going live)
 edge:       software + cloud + AI, so I can ship AI features end to end
 open_to:    Software Engineering internships & graduate roles
 ```
+
+---
+
+## 🧪 Proof of Work
+
+**🤖 AI & Data: where I'm heading**
+
+| Project | What it shows | Stack |
+|:--|:--|:--|
+| **[LLM Eval Framework](https://github.com/gayashan-indrasankha/llm-eval-framework)** | Reproducible benchmark of Claude vs Microsoft Copilot on GRC policy questions, with deterministic prompts, a six-dimension rubric and comparative analysis. The seed of my eval work. | Python · Excel |
+| **[GRC Risk Monitor](https://github.com/gayashan-indrasankha/grc-risk-monitor)** | Turns business policies into SQL control rules, a Power BI dashboard and automated alerts, with 28 recorded tests. | Python · SQLite · Power BI · Power Automate |
+| **[Skill-to-Career Predictor](https://github.com/gayashan-indrasankha/AI-Driven-Skill-to-Career-Pathway-Predictor)** | Matches student skills to Sri Lanka–relevant career paths using weighted scoring and market signals. | MongoDB · Express · React · Node.js |
+
+**⚙️ Software Engineering: the foundation**
+
+| Project | What it shows | Stack |
+|:--|:--|:--|
+| **[SwiftTrack Middleware](https://github.com/gayashan-indrasankha/Middleware-Architecture-for-SwiftLogistics)** | API gateway bridging SOAP, REST and TCP systems with saga coordination, so no order is lost when a service goes down. | Node.js · Python · PostgreSQL · Docker |
+| **[NexBus](https://github.com/gayashan-indrasankha/NexBus)** | Role-based bus tracking and fleet management system for Sri Lankan transport. | PHP · MySQL · JavaScript |
+| **BizFlows** · *going live soon* | Application engine for automating business workflows. It will be the base for my first LLM-powered workflow step. | TypeScript |
 
 ---
 
@@ -64,26 +84,6 @@ flowchart LR
 | 🟣 **AI specialist** | Multi-agent systems, guardrails, LLMOps, model serving | Public proof in one niche (LLMOps, AI evals or agentic automation) | 🚀 |
 
 > **Rule I follow:** every stop ends with something deployed and used, not another tutorial.
-
----
-
-## 🧪 Proof of Work
-
-**🤖 AI & Data: where I'm heading**
-
-| Project | What it shows | Stack |
-|:--|:--|:--|
-| **[LLM Eval Framework](https://github.com/gayashan-indrasankha/llm-eval-framework)** | Reproducible benchmark of Claude vs Microsoft Copilot on GRC policy questions, with deterministic prompts, a six-dimension rubric and comparative analysis. The seed of my eval work. | Python · Excel |
-| **[GRC Risk Monitor](https://github.com/gayashan-indrasankha/grc-risk-monitor)** | Turns business policies into SQL control rules, a Power BI dashboard and automated alerts, with 28 recorded tests. | Python · SQLite · Power BI · Power Automate |
-| **[Skill-to-Career Predictor](https://github.com/gayashan-indrasankha/AI-Driven-Skill-to-Career-Pathway-Predictor)** | Matches student skills to Sri Lanka–relevant career paths using weighted scoring and market signals. | MongoDB · Express · React · Node.js |
-
-**⚙️ Software Engineering: the foundation**
-
-| Project | What it shows | Stack |
-|:--|:--|:--|
-| **[SwiftTrack Middleware](https://github.com/gayashan-indrasankha/Middleware-Architecture-for-SwiftLogistics)** | API gateway bridging SOAP, REST and TCP systems with saga coordination, so no order is lost when a service goes down. | Node.js · Python · PostgreSQL · Docker |
-| **[NexBus](https://github.com/gayashan-indrasankha/NexBus)** | Role-based bus tracking and fleet management system for Sri Lankan transport. | PHP · MySQL · JavaScript |
-| **BizFlows** · *going live soon* | Application engine for automating business workflows. It will be the base for my first LLM-powered workflow step. | TypeScript |
 
 ---
 
