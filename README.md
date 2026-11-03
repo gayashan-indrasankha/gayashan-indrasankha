@@ -86,6 +86,10 @@ I'm an IT undergraduate at the **University of Colombo School of Computing** who
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gayashan-indrasankha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" alt="GitHub streak" />
+</p>
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" alt="" width="100%" />
