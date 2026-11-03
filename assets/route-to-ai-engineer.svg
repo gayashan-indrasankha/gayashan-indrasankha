@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 362" width="960" height="362" role="img" aria-labelledby="t d">
+  <title id="t">Route to AI Engineer</title>
+  <desc id="d">Five stops: graduate and land a first job (current stop), ship in production in year 1, own deploys and start AI in year 2, switch to AI Engineer in year 3 (the target), then become a senior AI specialist in years 4 to 5.</desc>
+  <defs>
+    <linearGradient id="g01" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#F0A94A"/><stop offset="1" stop-color="#7C9CF5"/></linearGradient>
+    <linearGradient id="g12" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7C9CF5"/><stop offset="1" stop-color="#3FC7A6"/></linearGradient>
+    <linearGradient id="g23" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#3FC7A6"/><stop offset="1" stop-color="#B98AF0"/></linearGradient>
+    <linearGradient id="g4e" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#B98AF0"/><stop offset="1" stop-color="#B98AF0" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    .when { font-size: 13px; fill: #9AA1B0; }
+    .name { font-size: 18px; font-weight: 700; fill: #F0F3F8; }
+    .label { font-size: 11px; letter-spacing: 1.2px; font-weight: 600; }
+    .body { font-size: 13.5px; fill: #C9D1D9; }
+    .pill { font-size: 11px; font-weight: 700; letter-spacing: 0.8px; fill: #0D1117; }
+    .foot { font-size: 12.5px; fill: #9AA1B0; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { from { transform: scale(1); opacity: .75; } to { transform: scale(2.7); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; opacity: 0; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="959" height="361" rx="14" fill="#0D1117" stroke="#30363D"/>
+
+  <!-- Target highlight -->
+  <rect x="558" y="30" width="182" height="288" rx="12" fill="#B98AF0" fill-opacity="0.09" stroke="#B98AF0" stroke-opacity="0.45"/>
+
+  <!-- Line -->
+  <rect x="33" y="99" width="182" height="6" fill="url(#g01)"/>
+  <rect x="215" y="99" width="182" height="6" fill="url(#g12)"/>
+  <rect x="397" y="99" width="182" height="6" fill="url(#g23)"/>
+  <rect x="579" y="99" width="182" height="6" fill="#B98AF0"/>
+  <rect x="761" y="99" width="175" height="6" fill="url(#g4e)"/>
+
+  <!-- Stop 0: current -->
+  <g>
+    <circle class="pulse" cx="33" cy="102" r="10" fill="#F0A94A"/>
+    <circle cx="33" cy="102" r="9" fill="#0D1117" stroke="#F0A94A" stroke-width="4"/>
+    <rect x="24" y="38" width="70" height="21" rx="10.5" fill="#F0A94A"/>
+    <text class="pill mono" x="59" y="53" text-anchor="middle">I'M HERE</text>
+    <text class="when mono" x="24" y="82">Now to 2027</text>
+    <text class="name" x="24" y="144">Graduate +</text>
+    <text class="name" x="24" y="166">first job</text>
+    <text class="label mono" x="24" y="200" fill="#F0A94A">LEARN</text>
+    <text class="body" x="24" y="219">DSA, advanced SQL,</text>
+    <text class="body" x="24" y="237">Docker, REST API design</text>
+    <text class="label mono" x="24" y="268" fill="#F0A94A">SHIP</text>
+    <text class="body" x="24" y="287">BizFlows live, with a</text>
+    <text class="body" x="24" y="305">public demo</text>
+  </g>
+
+  <!-- Stop 1 -->
+  <g>
+    <circle cx="215" cy="102" r="9" fill="#0D1117" stroke="#7C9CF5" stroke-width="4"/>
+    <text class="when mono" x="206" y="82">Year 1</text>
+    <text class="name" x="206" y="144">Ship in</text>
+    <text class="name" x="206" y="166">production</text>
+    <text class="label mono" x="206" y="200" fill="#7C9CF5">LEARN</text>
+    <text class="body" x="206" y="219">Testing, CI, Linux,</text>
+    <text class="body" x="206" y="237">Python fluency</text>
+    <text class="label mono" x="206" y="268" fill="#7C9CF5">SHIP</text>
+    <text class="body" x="206" y="287">One feature I own from</text>
+    <text class="body" x="206" y="305">ticket to production</text>
+  </g>
+
+  <!-- Stop 2 -->
+  <g>
+    <circle cx="397" cy="102" r="9" fill="#0D1117" stroke="#3FC7A6" stroke-width="4"/>
+    <text class="when mono" x="388" y="82">Year 2</text>
+    <text class="name" x="388" y="144">Own deploys,</text>
+    <text class="name" x="388" y="166">start AI</text>
+    <text class="label mono" x="388" y="200" fill="#3FC7A6">LEARN</text>
+    <text class="body" x="388" y="219">AWS, Terraform,</text>
+    <text class="body" x="388" y="237">LLM APIs, RAG</text>
+    <text class="label mono" x="388" y="268" fill="#3FC7A6">SHIP</text>
+    <text class="body" x="388" y="287">LLM workflow step with</text>
+    <text class="body" x="388" y="305">RAG and evals, on AWS</text>
+  </g>
+
+  <!-- Stop 3: target -->
+  <g>
+    <circle cx="579" cy="102" r="12" fill="#B98AF0"/>
+    <circle cx="579" cy="102" r="5" fill="#0D1117"/>
+    <rect x="570" y="38" width="62" height="21" rx="10.5" fill="#B98AF0"/>
+    <text class="pill mono" x="601" y="53" text-anchor="middle">TARGET</text>
+    <text class="when mono" x="570" y="82">Year 3</text>
+    <text class="name" x="570" y="144">Switch to</text>
+    <text class="name" x="570" y="166">AI Engineer</text>
+    <text class="label mono" x="570" y="200" fill="#B98AF0">LEARN</text>
+    <text class="body" x="570" y="219">Vector DBs, evals,</text>
+    <text class="body" x="570" y="237">agents, ML basics</text>
+    <text class="label mono" x="570" y="268" fill="#B98AF0">SHIP</text>
+    <text class="body" x="570" y="287">AI feature real users</text>
+    <text class="body" x="570" y="305">rely on, evals in CI</text>
+  </g>
+
+  <!-- Stop 4 -->
+  <g>
+    <circle cx="761" cy="102" r="9" fill="#0D1117" stroke="#B98AF0" stroke-width="4"/>
+    <text class="when mono" x="752" y="82">Years 4-5</text>
+    <text class="name" x="752" y="144">Senior AI</text>
+    <text class="name" x="752" y="166">specialist</text>
+    <text class="label mono" x="752" y="200" fill="#B98AF0">LEARN</text>
+    <text class="body" x="752" y="219">Guardrails, LLMOps,</text>
+    <text class="body" x="752" y="237">model serving</text>
+    <text class="label mono" x="752" y="268" fill="#B98AF0">SHIP</text>
+    <text class="body" x="752" y="287">Public proof in one</text>
+    <text class="body" x="752" y="305">niche, like AI evals</text>
+  </g>
+
+  <!-- Legend -->
+  <g>
+    <circle cx="30" cy="339" r="5" fill="#F0A94A"/><text class="foot" x="41" y="343.5">Launch</text>
+    <circle cx="104" cy="339" r="5" fill="#7C9CF5"/><text class="foot" x="115" y="343.5">Software</text>
+    <circle cx="190" cy="339" r="5" fill="#3FC7A6"/><text class="foot" x="201" y="343.5">Cloud</text>
+    <circle cx="256" cy="339" r="5" fill="#B98AF0"/><text class="foot" x="267" y="343.5">AI</text>
+    <text class="foot mono" x="936" y="343.5" text-anchor="end">2026 to 2031</text>
+  </g>
+</svg>

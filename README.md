@@ -58,34 +58,13 @@ open_to:    Software Engineering internships & graduate roles
 
 ## 🗺️ My Route to AI Engineer
 
-```mermaid
-flowchart LR
-    S0["📍 Now – 2027<br/><b>Graduate +<br/>first SE role</b>"]
-    S1["Year 1<br/><b>Ship in<br/>production</b>"]
-    S2["Year 2<br/><b>Own deploys +<br/>first LLM feature</b>"]
-    S3["Year 3<br/><b>AI Engineer</b> 🎯"]
-    S4["Years 4–5<br/><b>Senior AI /<br/>LLMOps specialist</b>"]
-    S0 --> S1 --> S2 --> S3 --> S4
+<p align="center">
+  <img src="assets/route-to-ai-engineer.svg" alt="Route to AI Engineer. Five stops: graduate and land a first job (I'm here), ship in production in year 1, own deploys and start AI in year 2, switch to AI Engineer in year 3 (the target), then senior AI specialist in years 4 to 5." width="100%" />
+</p>
 
-    classDef launch fill:#7A4505,stroke:#F0A94A,stroke-width:2px,color:#FFFFFF
-    classDef sw fill:#1B3A8C,stroke:#7C9CF5,stroke-width:2px,color:#FFFFFF
-    classDef cloud fill:#085A4A,stroke:#3FC7A6,stroke-width:2px,color:#FFFFFF
-    classDef ai fill:#5A2392,stroke:#B98AF0,stroke-width:2px,color:#FFFFFF
-    class S0 launch
-    class S1 sw
-    class S2 cloud
-    class S3,S4 ai
-```
+**Right now:** finishing my degree, practising DSA and advanced SQL, and getting BizFlows live with a public demo.
 
-| Stop | Focus | Proof I'll ship | Status |
-|:--|:--|:--|:--:|
-| 🟠 **Graduate + first job** | DSA, SQL, Git workflow, Docker, REST API design | **BizFlows** live: Dockerised, public demo, architecture docs | 🟢 In progress |
-| 🔵 **Ship in production** | Testing, code review, GitHub Actions CI, Linux, Python fluency | A feature owned from ticket to production + CI/CD for BizFlows | ⏳ Next |
-| 🟢 **Own deploys, start AI** | AWS core, Terraform, observability, LLM APIs, RAG | An LLM workflow step with RAG + evals, deployed on AWS with Terraform | ⏳ Later |
-| 🟣 **AI Engineer** | RAG + vector DBs, evals, agents & tool use, ML fundamentals | An AI feature real users depend on, with evals running in CI | 🎯 Target |
-| 🟣 **AI specialist** | Multi-agent systems, guardrails, LLMOps, model serving | Public proof in one niche (LLMOps, AI evals or agentic automation) | 🚀 |
-
-> **Rule I follow:** every stop ends with something deployed and used, not another tutorial.
+**My one rule:** every stop ends with something deployed and used, not another tutorial.
 
 ---
 
