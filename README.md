@@ -47,8 +47,6 @@ open_to:    Software Engineering internships & graduate roles
   <a href="https://github.com/gayashan-indrasankha/NexBus"><img src="assets/projects/nexbus.svg" alt="NexBus: Role-based bus tracking and fleet management system for Sri Lankan transport." width="49%" /></a>
 </p>
 
-<p align="center">Click a card to open the project. LifeOS is also running as a <a href="https://lifeos-gayashan-2026.vercel.app">live app</a>.</p>
-
 ---
 
 ## 🗺️ My Route to AI Engineer
