@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 362" width="960" height="362" role="img" aria-labelledby="t d">
   <title id="t">Route to AI Engineer</title>
-  <desc id="d">Five stops: graduate and land a first job (current stop), ship in production in year 1, own deploys and start AI in year 2, switch to AI Engineer in year 3 (the target), then become a senior AI specialist in years 4 to 5.</desc>
+  <desc id="d">Five stops: graduate to SE Intern (current stop), Associate Software Engineer in year 1, Software Engineer who owns cloud deployments in year 2, AI Engineer or LLM Engineer in year 3 (the target), then Senior AI Engineer in years 4 to 5.</desc>
   <defs>
     <linearGradient id="g01" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#F0A94A"/><stop offset="1" stop-color="#7C9CF5"/></linearGradient>
     <linearGradient id="g12" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7C9CF5"/><stop offset="1" stop-color="#3FC7A6"/></linearGradient>
@@ -40,8 +40,8 @@
     <rect x="24" y="38" width="70" height="21" rx="10.5" fill="#F0A94A"/>
     <text class="pill mono" x="59" y="53" text-anchor="middle">I'M HERE</text>
     <text class="when mono" x="24" y="82">Now to 2027</text>
-    <text class="name" x="24" y="144">Graduate +</text>
-    <text class="name" x="24" y="166">first job</text>
+    <text class="name" x="24" y="144">Graduate →</text>
+    <text class="name" x="24" y="166">SE Intern</text>
     <text class="label mono" x="24" y="200" fill="#F0A94A">LEARN</text>
     <text class="body" x="24" y="219">DSA, advanced SQL,</text>
     <text class="body" x="24" y="237">Docker, REST API design</text>
@@ -54,8 +54,8 @@
   <g>
     <circle cx="215" cy="102" r="9" fill="#0D1117" stroke="#7C9CF5" stroke-width="4"/>
     <text class="when mono" x="206" y="82">Year 1</text>
-    <text class="name" x="206" y="144">Ship in</text>
-    <text class="name" x="206" y="166">production</text>
+    <text class="name" x="206" y="144">Associate</text>
+    <text class="name" x="206" y="166">Software Engineer</text>
     <text class="label mono" x="206" y="200" fill="#7C9CF5">LEARN</text>
     <text class="body" x="206" y="219">Testing, CI, Linux,</text>
     <text class="body" x="206" y="237">Python fluency</text>
@@ -68,8 +68,8 @@
   <g>
     <circle cx="397" cy="102" r="9" fill="#0D1117" stroke="#3FC7A6" stroke-width="4"/>
     <text class="when mono" x="388" y="82">Year 2</text>
-    <text class="name" x="388" y="144">Own deploys,</text>
-    <text class="name" x="388" y="166">start AI</text>
+    <text class="name" x="388" y="144">Software Engineer</text>
+    <text class="name" x="388" y="166" style="font-size:15px">+ Cloud Deployments</text>
     <text class="label mono" x="388" y="200" fill="#3FC7A6">LEARN</text>
     <text class="body" x="388" y="219">AWS, Terraform,</text>
     <text class="body" x="388" y="237">LLM APIs, RAG</text>
@@ -85,8 +85,8 @@
     <rect x="570" y="38" width="62" height="21" rx="10.5" fill="#B98AF0"/>
     <text class="pill mono" x="601" y="53" text-anchor="middle">TARGET</text>
     <text class="when mono" x="570" y="82">Year 3</text>
-    <text class="name" x="570" y="144">Switch to</text>
-    <text class="name" x="570" y="166">AI Engineer</text>
+    <text class="name" x="570" y="144">AI Engineer /</text>
+    <text class="name" x="570" y="166">LLM Engineer</text>
     <text class="label mono" x="570" y="200" fill="#B98AF0">LEARN</text>
     <text class="body" x="570" y="219">Vector DBs, evals,</text>
     <text class="body" x="570" y="237">agents, ML basics</text>
@@ -99,8 +99,8 @@
   <g>
     <circle cx="761" cy="102" r="9" fill="#0D1117" stroke="#B98AF0" stroke-width="4"/>
     <text class="when mono" x="752" y="82">Years 4-5</text>
-    <text class="name" x="752" y="144">Senior AI</text>
-    <text class="name" x="752" y="166">specialist</text>
+    <text class="name" x="752" y="144">Senior</text>
+    <text class="name" x="752" y="166">AI Engineer</text>
     <text class="label mono" x="752" y="200" fill="#B98AF0">LEARN</text>
     <text class="body" x="752" y="219">Guardrails, LLMOps,</text>
     <text class="body" x="752" y="237">model serving</text>

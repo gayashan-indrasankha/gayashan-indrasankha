@@ -59,7 +59,7 @@ open_to:    Software Engineering internships & graduate roles
 ## 🗺️ My Route to AI Engineer
 
 <p align="center">
-  <img src="assets/route-to-ai-engineer.svg" alt="Route to AI Engineer. Five stops: graduate and land a first job (I'm here), ship in production in year 1, own deploys and start AI in year 2, switch to AI Engineer in year 3 (the target), then senior AI specialist in years 4 to 5." width="100%" />
+  <img src="assets/route-to-ai-engineer.svg" alt="Route to AI Engineer. Five stops: graduate to SE Intern (I'm here), Associate Software Engineer in year 1, Software Engineer who owns cloud deployments in year 2, AI Engineer or LLM Engineer in year 3 (the target), then Senior AI Engineer in years 4 to 5." width="100%" />
 </p>
 
 **Right now:** finishing my degree, practising DSA and advanced SQL, and getting BizFlows live with a public demo.
