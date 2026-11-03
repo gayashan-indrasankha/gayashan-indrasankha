@@ -48,6 +48,8 @@ open_to:    Software Engineering internships & graduate roles
 
 | Project | What it shows | Stack |
 |:--|:--|:--|
+| **[LifeOS](https://github.com/gayashan-indrasankha/LifeOS)** · [live app](https://lifeos-gayashan-2026.vercel.app) | Personal planning system connecting long-term goals to weekly plans, daily tasks and habits. Built solo, with unit, integration and browser tests running in GitHub Actions. | Next.js · TypeScript · PostgreSQL · Electron |
+| **[Zinema.lk](https://github.com/gayashan-indrasankha/Zinema.lk)** | Built solo to make movies affordable in Sri Lanka: one-time tokens deliver films through low-cost WhatsApp packages instead of expensive mobile data, with a short-clip feed for discovery. | PHP · MySQL · JavaScript · Node.js |
 | **[SwiftTrack Middleware](https://github.com/gayashan-indrasankha/Middleware-Architecture-for-SwiftLogistics)** | API gateway bridging SOAP, REST and TCP systems with saga coordination, so no order is lost when a service goes down. | Node.js · Python · PostgreSQL · Docker |
 | **[NexBus](https://github.com/gayashan-indrasankha/NexBus)** | Role-based bus tracking and fleet management system for Sri Lankan transport. | PHP · MySQL · JavaScript |
 | **BizFlows** · *going live soon* | Application engine for automating business workflows. It will be the base for my first LLM-powered workflow step. | TypeScript |
