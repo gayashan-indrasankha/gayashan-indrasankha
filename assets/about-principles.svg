@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="372" viewBox="0 0 420 372" role="img" aria-labelledby="title desc">
+  <title id="title">How I work</title>
+  <desc id="desc">Three principles with proof. Solve the real problem: mobile data is costly in Sri Lanka, so Zinema.lk delivers films over low-cost WhatsApp packages. Design for failure: SwiftTrack bridges SOAP, REST and TCP, and its sagas keep orders safe when a service goes down. Measure before trusting: my LLM benchmark scores 48 responses across six dimensions.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17172A"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#7C9CF5"/>
+      <stop offset="1" stop-color="#B98AF0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    .label { font-size: 11.5px; font-weight: 600; letter-spacing: 1.3px; }
+    .head { font-size: 17px; font-weight: 700; letter-spacing: -.2px; fill: #F0F3F8; }
+    .body { font-size: 13.5px; fill: #AEB7C4; }
+    .ico { fill: none; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect x="3.5" y="3.5" width="413" height="365" rx="16" fill="url(#surface)" stroke="#30363D"/>
+  <path d="M27 4H393" stroke="url(#accent)" stroke-opacity=".8"/>
+
+  <text x="27" y="37" class="label mono" fill="#A9BCF8">HOW I WORK</text>
+
+  <!-- Real problem -->
+  <rect x="27" y="58" width="40" height="40" rx="10" fill="#3FC7A6" fill-opacity=".12" stroke="#3FC7A6" stroke-opacity=".4"/>
+  <g class="ico" stroke="#3FC7A6" aria-hidden="true">
+    <circle cx="47" cy="78" r="9"/>
+    <circle cx="47" cy="78" r="4"/>
+    <circle cx="47" cy="78" r=".6"/>
+  </g>
+  <text x="81" y="72" class="head">Solve the real problem</text>
+  <text x="81" y="94" class="body">Mobile data is costly in Sri Lanka, so Zinema.lk</text>
+  <text x="81" y="113" class="body">delivers films over low-cost WhatsApp packages.</text>
+
+  <path d="M81 134H393" stroke="#262C36"/>
+
+  <!-- Failure -->
+  <rect x="27" y="152" width="40" height="40" rx="10" fill="#7C9CF5" fill-opacity=".12" stroke="#7C9CF5" stroke-opacity=".4"/>
+  <g class="ico" stroke="#7C9CF5" aria-hidden="true">
+    <path d="M47 162L56 165.5V172C56 178 52 182 47 184C42 182 38 178 38 172V165.5Z"/>
+    <path d="M43 172.5L46 175.5L51.5 169.5"/>
+  </g>
+  <text x="81" y="166" class="head">Design for failure</text>
+  <text x="81" y="188" class="body">SwiftTrack bridges SOAP, REST and TCP, and its</text>
+  <text x="81" y="207" class="body">sagas keep orders safe when a service goes down.</text>
+
+  <path d="M81 228H393" stroke="#262C36"/>
+
+  <!-- Measure -->
+  <rect x="27" y="246" width="40" height="40" rx="10" fill="#B98AF0" fill-opacity=".12" stroke="#B98AF0" stroke-opacity=".4"/>
+  <g class="ico" stroke="#B98AF0" aria-hidden="true">
+    <path d="M38 275H56"/>
+    <path d="M41 275V267M47 275V257M53 275V262"/>
+  </g>
+  <text x="81" y="260" class="head">Measure before trusting</text>
+  <text x="81" y="282" class="body">My LLM benchmark scores 48 responses across</text>
+  <text x="81" y="301" class="body">six dimensions, so results replace impressions.</text>
+
+  <path d="M27 324H393" stroke="#262C36"/>
+  <text x="27" y="349" font-size="13.5" font-weight="600" fill="#D7BBF7">Every principle here comes from a project below.</text>
+</svg>

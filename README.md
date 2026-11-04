@@ -21,26 +21,18 @@
 
 ## 👨‍💻 About Me
 
-<h3 align="center">Software engineering today. AI engineering ahead.</h3>
+<h3 align="center">I turn real problems into reliable software.</h3>
 
 <p align="center">
-  I'm an Information Systems undergraduate at the <b>University of Colombo School of Computing</b>.<br />
-  I build full-stack applications, with one long-term goal: <b>taking useful AI systems all the way to production.</b>
+  Full-stack developer from Sri Lanka. I take products from first idea to tested, deployed software,<br />
+  and I want to hold <b>production AI</b> to the same standard.
 </p>
 
 <p align="center">
-  <img src="assets/about-building.svg" width="420" alt="Building now: BizFlows, a workflow automation engine. Preparing for a public launch and demo, with an LLM-powered workflow step planned next." />
-  <img src="assets/about-learning.svg" width="420" alt="Learning with intent: strengthening DSA, advanced SQL, Python, REST API design, and Docker in production." />
-</p>
-
-<p align="center">
-  <b>My direction</b><br />
-  Build solid software &nbsp;→&nbsp; Own its cloud deployment &nbsp;→&nbsp; Ship useful AI
-</p>
-
-<p align="center">
-  Open to <b>Software Engineering internships &amp; graduate roles</b><br />
-  <a href="mailto:gayashanindrasankha@gmail.com">Let's build something together ↗</a>
+  <a href="https://github.com/gayashan-indrasankha/LifeOS"><img src="assets/about-lifeos.svg" width="420" alt="LifeOS, built end to end by one developer and live in production: about 21,500 lines of TypeScript, 61 automated test suites and 37 database tables. A real-data performance fix made its Week page 88 percent smaller, from 6.46 MB to 0.79 MB." /></a>
+  <img src="assets/about-principles.svg" width="420" alt="How I work. Solve the real problem: Zinema.lk delivers films over low-cost WhatsApp packages because mobile data is costly in Sri Lanka. Design for failure: SwiftTrack bridges SOAP, REST and TCP, and its sagas keep orders safe when a service goes down. Measure before trusting: my LLM benchmark scores 48 responses across six dimensions." />
+  <img src="assets/about-education.svg" width="420" alt="Education: Information Systems undergraduate at the University of Colombo School of Computing, Sri Lanka." />
+  <a href="mailto:gayashanindrasankha@gmail.com"><img src="assets/about-open.svg" width="420" alt="Open to Software Engineering internships and graduate positions. Email me." /></a>
 </p>
 
 ---
