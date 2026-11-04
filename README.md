@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=B98AF0&center=true&vCenter=true&width=720&lines=IT+Undergraduate+%40+UCSC+%E2%86%92+Software+Engineer;Ship+it+in+production%2C+then+own+the+cloud+it+runs+on;Destination%3A+AI+Engineer+(RAG%2C+evals%2C+agents);Open+to+SE+internships+%26+graduate+roles+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=B98AF0& center=true&vCenter=true&width=720&lines=Information+Systems+Undergraduate+%40+UCSC;Aspiring+Software+Engineer+%E2%86%92+AI  +Engineer;I+build+full-stack+web+apps+with+AI+features;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,15 +22,6 @@
 ## 👨‍💻 About Me
 
 I'm an IT undergraduate at the **University of Colombo School of Computing**, building toward one goal: **becoming an AI Engineer who can take LLM systems all the way to production**. My plan is simple: first become a solid software engineer, then own the cloud my code runs on, then bring AI into products people actually use.
-
-```yaml
-now:        IT Undergraduate @ UCSC  →  Software Engineer
-target:     AI Engineer building LLM systems in production
-learning:   DSA · advanced SQL · Docker in production · REST API design · deeper Python
-shipping:   BizFlows, a workflow automation engine (going live)
-edge:       software + cloud + AI, so I can ship AI features end to end
-open_to:    Software Engineering internships & graduate roles
-```
 
 ---
 
