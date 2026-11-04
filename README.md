@@ -21,7 +21,9 @@
 
 ## 👨‍💻 About Me
 
-<h3 align="center">I turn real problems into reliable software.</h3>
+<p align="center">
+  <img src="assets/about-statement.svg" width="844" alt="I turn real problems into reliable software." />
+</p>
 
 <p align="center">
   Full-stack developer from Sri Lanka. I take products from first idea to tested, deployed software,<br />
