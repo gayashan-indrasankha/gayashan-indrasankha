@@ -23,6 +23,15 @@
 
 I'm an IT undergraduate at the **University of Colombo School of Computing**, building toward one goal: **becoming an AI Engineer who can take LLM systems all the way to production**. My plan is simple: first become a solid software engineer, then own the cloud my code runs on, then bring AI into products people actually use.
 
+```yaml
+now: IT Undergraduate @ UCSC  →  Software Engineer
+target: AI Engineer building LLM systems in production
+learning: DSA · advanced SQL · Docker in production · REST API design · deeper Python
+shipping: BizFlows, a workflow automation engine (going live)
+edge: software + cloud + AI, so I can ship AI features end to end
+open_to: Software Engineering internships & graduate roles
+```
+
 ---
 
 ## 🧪 Proof of Work
