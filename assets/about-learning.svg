@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="258" viewBox="0 0 420 258" role="img" aria-labelledby="title desc">
+  <title id="title">Learning with intent — engineering foundations</title>
+  <desc id="desc">Strengthening DSA, advanced SQL, Python, REST API design, and Docker in production.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11231F"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#3FC7A6"/>
+      <stop offset="1" stop-color="#7C9CF5"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .label { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 12px; font-weight: 600; letter-spacing: 1.4px; }
+    .skill { font-size: 15px; fill: #D1E6E1; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="257" rx="16" fill="url(#surface)" stroke="#294139"/>
+  <path d="M24 1H396" stroke="url(#accent)" stroke-opacity=".75"/>
+  <text x="26" y="35" class="label" fill="#72DCC1">LEARNING WITH INTENT</text>
+  <g fill="none" stroke="#3FC7A6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M356 24L346 34L356 44M380 24L390 34L380 44M372 20L364 48"/>
+  </g>
+  <text x="26" y="91" font-size="28" font-weight="700" letter-spacing="-.6" fill="#F0F3F8">Stronger foundations.</text>
+  <text x="26" y="121" font-size="16" fill="#C9D1D9">The skills behind reliable software.</text>
+  <g fill="#162A25" stroke="#2D493F">
+    <rect x="26" y="141" width="52" height="27" rx="7"/>
+    <rect x="86" y="141" width="119" height="27" rx="7"/>
+    <rect x="213" y="141" width="74" height="27" rx="7"/>
+    <rect x="26" y="177" width="133" height="27" rx="7"/>
+    <rect x="167" y="177" width="166" height="27" rx="7"/>
+  </g>
+  <text x="52" y="159.5" class="skill" text-anchor="middle">DSA</text>
+  <text x="145.5" y="159.5" class="skill" text-anchor="middle">Advanced SQL</text>
+  <text x="250" y="159.5" class="skill" text-anchor="middle">Python</text>
+  <text x="92.5" y="195.5" class="skill" text-anchor="middle">REST API design</text>
+  <text x="250" y="195.5" class="skill" text-anchor="middle">Docker in production</text>
+  <path d="M26 222H394" stroke="#263C35"/>
+  <circle cx="30" cy="237" r="3.5" fill="#3FC7A6"/>
+  <text x="42" y="241" font-size="13" fill="#9DBCB2">Learn it. Build with it. Ship it.</text>
+</svg>

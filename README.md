@@ -21,16 +21,27 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT undergraduate at the **University of Colombo School of Computing**, building toward one goal: **becoming an AI Engineer who can take LLM systems all the way to production**. My plan is simple: first become a solid software engineer, then own the cloud my code runs on, then bring AI into products people actually use.
+<h3 align="center">Software engineering today. AI engineering ahead.</h3>
 
-```yaml
-now: IT Undergraduate @ UCSC  →  Software Engineer
-target: AI Engineer building LLM systems in production
-learning: DSA · advanced SQL · Docker in production · REST API design · deeper Python
-shipping: BizFlows, a workflow automation engine (going live)
-edge: software + cloud + AI, so I can ship AI features end to end
-open_to: Software Engineering internships & graduate roles
-```
+<p align="center">
+  I'm an Information Systems undergraduate at the <b>University of Colombo School of Computing</b>.<br />
+  I build full-stack applications, with one long-term goal: <b>taking useful AI systems all the way to production.</b>
+</p>
+
+<p align="center">
+  <img src="assets/about-building.svg" width="420" alt="Building now: BizFlows, a workflow automation engine. Preparing for a public launch and demo, with an LLM-powered workflow step planned next." />
+  <img src="assets/about-learning.svg" width="420" alt="Learning with intent: strengthening DSA, advanced SQL, Python, REST API design, and Docker in production." />
+</p>
+
+<p align="center">
+  <b>My direction</b><br />
+  Build solid software &nbsp;→&nbsp; Own its cloud deployment &nbsp;→&nbsp; Ship useful AI
+</p>
+
+<p align="center">
+  Open to <b>Software Engineering internships &amp; graduate roles</b><br />
+  <a href="mailto:gayashanindrasankha@gmail.com">Let's build something together ↗</a>
+</p>
 
 ---
 
