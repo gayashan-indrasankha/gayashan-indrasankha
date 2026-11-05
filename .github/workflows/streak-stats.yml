@@ -1,0 +1,49 @@
+name: Update GitHub streak
+
+on:
+  schedule:
+    - cron: "17 0,6,12,18 * * *" # Every six hours; cron uses UTC.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: github-streak
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+
+      # Generate locally on the runner, without the public streak-stats server.
+      # If generation fails, the commit step is skipped and the saved SVG stays intact.
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1.8.1
+        with:
+          path: assets/github-streak.svg
+          options: >-
+            user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C9CF5&ring=B98AF0&fire=F0A94A&currStreakLabel=B98AF0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&timezone=Asia%2FColombo&disable_animations=true
+
+      - name: Commit updated card
+        shell: bash
+        run: |
+          git add assets/github-streak.svg
+          if git diff --cached --quiet; then
+            echo "Streak card is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update GitHub streak card"
+          git pull --rebase origin main
+          git push origin HEAD:main
