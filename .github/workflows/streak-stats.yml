@@ -1,4 +1,4 @@
-name: Update GitHub streak
+name: Update GitHub profile cards
 
 on:
   schedule:
@@ -25,6 +25,31 @@ jobs:
         with:
           ref: main
 
+      # Stats and top-languages cards are generated on the runner, not by a public server.
+      # fail_on_error stops an API error card from replacing the saved SVG, and
+      # continue-on-error lets the other cards still update when one of these fails.
+      - name: Generate stats card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B98AF0&icon_color=7C9CF5&text_color=C9D1D9
+
+      - name: Generate top languages card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+          options: >-
+            username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B98AF0&text_color=C9D1D9&langs_count=8&hide=php,hack,nsis,batchfile,dockerfile,shell
+
       # Generate locally on the runner, without the public streak-stats server.
       # If generation fails, the commit step is skipped and the saved SVG stays intact.
       - name: Generate streak card
@@ -34,16 +59,16 @@ jobs:
           options: >-
             user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C9CF5&ring=B98AF0&fire=F0A94A&currStreakLabel=B98AF0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&timezone=Asia%2FColombo&disable_animations=true
 
-      - name: Commit updated card
+      - name: Commit updated cards
         shell: bash
         run: |
-          git add assets/github-streak.svg
+          git add assets/github-streak.svg assets/github-stats.svg assets/top-langs.svg
           if git diff --cached --quiet; then
-            echo "Streak card is already up to date."
+            echo "Profile cards are already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update GitHub streak card"
+          git commit -m "Update GitHub profile cards"
           git pull --rebase origin main
           git push origin HEAD:main
