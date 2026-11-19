@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="372" viewBox="0 0 420 372" role="img" aria-labelledby="title desc">
   <title id="title">How I work</title>
-  <desc id="desc">Three principles with proof. Solve the real problem: mobile data is costly in Sri Lanka, so Zinema.lk delivers films over low-cost WhatsApp packages. Design for failure: SwiftTrack bridges SOAP, REST and TCP, and its sagas keep orders safe when a service goes down. Measure before trusting: my LLM benchmark scores 48 responses across six dimensions.</desc>
+  <desc id="desc">Three principles with proof. Solve the real problem: mobile data is costly in Sri Lanka, so Zinema.lk delivers films over low-cost WhatsApp packages. Design for failure: SwiftTrack bridges SOAP, REST and TCP, and its sagas keep orders safe when a service goes down. Measure before trusting: my Claude vs Copilot benchmark scores 48 responses on six dimensions.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#17172A"/>
@@ -56,8 +56,8 @@
     <path d="M41 275V267M47 275V257M53 275V262"/>
   </g>
   <text x="81" y="260" class="head">Measure before trusting</text>
-  <text x="81" y="282" class="body">My LLM benchmark scores 48 responses across</text>
-  <text x="81" y="301" class="body">six dimensions, so results replace impressions.</text>
+  <text x="81" y="282" class="body">My Claude vs Copilot benchmark scores 48</text>
+  <text x="81" y="301" class="body">responses on six dimensions, not impressions.</text>
 
   <path d="M27 324H393" stroke="#262C36"/>
   <text x="27" y="349" font-size="13.5" font-weight="600" fill="#D7BBF7">Every principle here comes from a project below.</text>

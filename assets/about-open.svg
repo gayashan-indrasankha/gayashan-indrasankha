@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="112" viewBox="0 0 420 112" role="img" aria-labelledby="title desc">
-  <title id="title">Open to Software Engineering roles</title>
-  <desc id="desc">Open to Software Engineering internships and graduate positions. Select to send an email.</desc>
+  <title id="title">Open to AI and Automation roles</title>
+  <desc id="desc">Open to AI and Automation roles and Software Engineering internships. Select to send an email.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
@@ -14,8 +14,8 @@
   <circle class="pulse" cx="31" cy="30" r="3.5" fill="#3FC7A6"/>
   <circle cx="31" cy="30" r="3.5" fill="#3FC7A6"/>
   <text x="42" y="34" class="label mono" fill="#72DCC1">OPEN TO</text>
-  <text x="27" y="63" font-size="20" font-weight="700" letter-spacing="-.3" fill="#F0F3F8">Software Engineering roles</text>
-  <text x="27" y="87" font-size="13.5" fill="#AEB7C4">Internships and graduate positions</text>
+  <text x="27" y="63" font-size="20" font-weight="700" letter-spacing="-.3" fill="#F0F3F8">AI &amp; Automation roles</text>
+  <text x="27" y="87" font-size="13.5" fill="#AEB7C4">and Software Engineering internships</text>
   <rect x="312" y="38" width="81" height="36" rx="18" fill="#3FC7A6"/>
   <text x="352.5" y="61" font-size="13.5" font-weight="700" fill="#0D1117" text-anchor="middle">Email ↗</text>
 </svg>

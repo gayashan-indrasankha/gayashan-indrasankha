@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 362" width="960" height="362" role="img" aria-labelledby="t d">
   <title id="t">Route to AI Engineer</title>
-  <desc id="d">Five stops: graduate to SE Intern (current stop), Associate Software Engineer in year 1, Software Engineer who owns cloud deployments in year 2, AI Engineer or LLM Engineer in year 3 (the target), then Senior AI Engineer in years 4 to 5.</desc>
+  <desc id="d">Five stops: AI and Automation Intern from now to 2027 (current stop), Associate Software Engineer in year 1, Software Engineer who owns cloud deployments in year 2, AI Engineer or LLM Engineer in year 3 (the target), then Senior AI Engineer in years 4 to 5.</desc>
   <defs>
     <linearGradient id="g01" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#F0A94A"/><stop offset="1" stop-color="#7C9CF5"/></linearGradient>
     <linearGradient id="g12" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7C9CF5"/><stop offset="1" stop-color="#3FC7A6"/></linearGradient>
@@ -40,14 +40,14 @@
     <rect x="24" y="38" width="70" height="21" rx="10.5" fill="#F0A94A"/>
     <text class="pill mono" x="59" y="53" text-anchor="middle">I'M HERE</text>
     <text class="when mono" x="24" y="82">Now to 2027</text>
-    <text class="name" x="24" y="144">Graduate →</text>
-    <text class="name" x="24" y="166">SE Intern</text>
+    <text class="name" x="24" y="144">AI &amp; Automation</text>
+    <text class="name" x="24" y="166">Intern</text>
     <text class="label mono" x="24" y="200" fill="#F0A94A">LEARN</text>
-    <text class="body" x="24" y="219">DSA, advanced SQL,</text>
-    <text class="body" x="24" y="237">Docker, REST API design</text>
+    <text class="body" x="24" y="219">Power Automate, DAX,</text>
+    <text class="body" x="24" y="237">Copilot Studio, agents</text>
     <text class="label mono" x="24" y="268" fill="#F0A94A">SHIP</text>
-    <text class="body" x="24" y="287">BizFlows live, with a</text>
-    <text class="body" x="24" y="305">public demo</text>
+    <text class="body" x="24" y="287">An automation a team</text>
+    <text class="body" x="24" y="305">relies on, fully tested</text>
   </g>
 
   <!-- Stop 1 -->
